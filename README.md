@@ -1,4 +1,6 @@
 # 7-SSD1963-GPIO-STM32-STM32F401-GAUGE
 7 SSD1963 GPIO STM32 STM32F401 GAUGE
 
+https://www.youtube.com/watch?v=I56TI9x83w8
+
 ![Screenshot_22](https://github.com/offpic/7-SSD1963-GPIO-STM32-STM32F401-GAUGE/assets/31142397/3e39a926-dcd5-40c0-8131-a555ca9327f5)
