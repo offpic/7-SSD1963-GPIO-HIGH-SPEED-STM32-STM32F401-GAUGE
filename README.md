@@ -4,3 +4,5 @@
 https://www.youtube.com/watch?v=I56TI9x83w8
 
 ![Screenshot_22](https://github.com/offpic/7-SSD1963-GPIO-STM32-STM32F401-GAUGE/assets/31142397/3e39a926-dcd5-40c0-8131-a555ca9327f5)
+
+![263114788-4575971c-c9d5-454b-a1d9-98c0b8e62493](https://github.com/offpic/7-SSD1963-GPIO-STM32-STM32F401-GAUGE/assets/31142397/96be50e2-e2e1-4fa1-a620-7754841513b9)
